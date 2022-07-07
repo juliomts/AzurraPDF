@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\bin\Debug\LerPDF.Azurra.exe.config
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\bin\Debug\LerPDF.Azurra.exe
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\bin\Debug\LerPDF.Azurra.pdb
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\bin\Debug\itextsharp.dll
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\bin\Debug\itextsharp.xml
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\obj\Debug\LerPDF.Azurra.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\obj\Debug\LerPDF.Azurra.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\obj\Debug\LerPDF.Azurra.Form1.resources
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\obj\Debug\LerPDF.Azurra.Properties.Resources.resources
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\obj\Debug\LerPDF.Azurra.csproj.GenerateResource.cache
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\obj\Debug\LerPDF.Azurra.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\obj\Debug\LerPDF.Azurra.csproj.CopyComplete
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\obj\Debug\LerPDF.Azurra.exe
+C:\Users\julio\Desktop\Projetos\LerPDF.Azurra\LerPDF.Azurra\obj\Debug\LerPDF.Azurra.pdb
